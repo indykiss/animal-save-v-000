@@ -2,7 +2,9 @@ html {
   background: url(../images/croc.jpg) no-repeat top left;
 }
 
-
+#ostrich {
+  position: absolute;
+}
 
 
 
